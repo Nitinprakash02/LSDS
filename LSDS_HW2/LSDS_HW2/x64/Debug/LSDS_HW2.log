@@ -1,0 +1,9 @@
+﻿  Queries_AR.cpp
+C:\Users\np679\source\repos\LSDS_HW2\LSDS_HW2\Queries_AR.cpp(30,12): warning C4305: 'return': truncation from 'int' to 'bool'
+C:\Users\np679\source\repos\LSDS_HW2\LSDS_HW2\Queries_AR.cpp(67,12): warning C4305: 'return': truncation from 'int' to 'bool'
+C:\Users\np679\source\repos\LSDS_HW2\LSDS_HW2\Queries_AR.cpp(97,9): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  LSDS_HW2.cpp
+C:\Users\np679\source\repos\LSDS_HW2\LSDS_HW2\LSDS_HW2.cpp(205,11): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\np679\source\repos\LSDS_HW2\LSDS_HW2\LSDS_HW2.cpp(266,12): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  Generating Code...
+  LSDS_HW2.vcxproj -> C:\Users\np679\source\repos\LSDS_HW2\x64\Debug\LSDS_HW2.exe
