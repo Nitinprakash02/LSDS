@@ -1,0 +1,27 @@
+////////////////////////////////////////////
+LSDS HW5: Prefix Trie
+////////////////////////////////////////////
+
+
+Total number of scaffolds:607
+Total number of Human Genome: 3057186663
+Total number of Human Genome after reduced: 50000.
+Running for 50000 numbers of fragment.
+
+
+======================
+Problem A
+======================
+Size of trie for 50K 36 - mers: 910228
+Match Count for 50K 36 mers: 31744
+
+
+
+======================
+Problem B
+======================
+Size of trie for 50K 36-mers: 1296397
+Match Count for 50K 36 mers: 23008
+
+
+
