@@ -1,0 +1,8 @@
+LSDS HW3
+Total number of Fragments: 27772294
+Total number of Human Genome: 3057186663
+
+Our Progrom took 39.71903 seconds for populating 60 Million fragments into hash table.
+
+insertion done
+Collision count:19946973
