@@ -1,0 +1,6 @@
+LSDS HW4
+Total number of scaffolds:607
+Total number of Fragments: 27772294
+Total number of Human Genome: 3057186663
+slurmstepd: error: Detected 1 oom-kill event(s) in StepId=64517625.0. Some of your processes may have been killed by the cgroup out-of-memory handler.
+srun: error: cn20: task 0: Out Of Memory

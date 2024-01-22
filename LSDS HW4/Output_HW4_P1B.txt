@@ -1,0 +1,7230 @@
+LSDS HW4
+Total number of scaffolds:607
+Total number of Fragments: 27772294
+Total number of Human Genome: 3057186663
+
+ Problem 1 Part B || Completely random 10K, 100K, 1M n-mers to conduct fuzzy searching within the query dataset using NW algorithm.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 1 || Subject [CACCATTTATCGGCCA] is found in fragment queries [GCACCATTTACGGCCA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 2 || Subject [TAATTCTGGTGGATNC] is found in fragment queries [TTATTCTGGTGGATTC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 3 || Subject [TCATTGAGTTTTATNA] is found in fragment queries [TCATTGATTTTTATCA] with similarity score of 26.
+Not Found.
+
+Not Found.
+Query found: 4 || Subject [CTCGCGAGNCCTAACG] is found in fragment queries [CTCACGAGACCTAACG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 5 || Subject [TAGAGTATTTACANGN] is found in fragment queries [TAGAGTATTTACAGGC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 6 || Subject [GTTATCGNTCACTATT] is found in fragment queries [GTTATCGGTCAGTATT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 7 || Subject [AGAGGNCCAATCGCTT] is found in fragment queries [AGAGGACCAAACGCTT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 8 || Subject [TNCCCTAAAGAGCTCT] is found in fragment queries [TCCCCTAAACAGCTCT] with similarity score of 26.
+Not Found.
+
+Not Found.
+Query found: 9 || Subject [CGCTGCATAGCCNGGC] is found in fragment queries [CGCTGCACAGCCTGGC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 10 || Subject [TCTCAATTTCNGTCAN] is found in fragment queries [TCTCAATTTCTGTCAT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 11 || Subject [GTGTAGGGACCCTTTT] is found in fragment queries [GAGGAGGGACCCTTTT] with similarity score of 26.
+Not Found.
+
+Not Found.
+Query found: 12 || Subject [NATATGTTAAGCAGAC] is found in fragment queries [ATATGTTAAGCTAGAC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 13 || Subject [CTACCAGGGGGNCCAA] is found in fragment queries [CTACCAGGGAGACCAA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 14 || Subject [CATAGAGAAATANCCT] is found in fragment queries [CATTAGAGAAATACCT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 15 || Subject [NTGAATTTTCTTNTCG] is found in fragment queries [CTGAATTTTCTTTTCG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 16 || Subject [GGACTAACGAGTTTTA] is found in fragment queries [GGACTAAAGATTTTTA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 17 || Subject [CTCTATGATGGATTCA] is found in fragment queries [CTCTGTGATGGATGCA] with similarity score of 26.
+Not Found.
+Query found: 18 || Subject [CACTTAGGCGAACCAG] is found in fragment queries [GACTTAGGCGAGCCAG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 19 || Subject [TTATCGTAAACCCATC] is found in fragment queries [TTATGGTCAACCCATC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 20 || Subject [TAAGTTCTTTTAACCG] is found in fragment queries [AAAGTTCTTTTAACAG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 21 || Subject [CTACCACGCGCTTCTA] is found in fragment queries [CCACCACGCGCTGCTA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 22 || Subject [TTTTTTNCCAACANCA] is found in fragment queries [TTTTTTCCCAACACCA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 23 || Subject [TCANAAATCAAGGTAA] is found in fragment queries [TCATAAATCAAGCTAA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 24 || Subject [GCAGCATAGTGTGCNT] is found in fragment queries [GCAGCATAAGTGTGCT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 25 || Subject [CTGCTGTCCTTGGTGG] is found in fragment queries [CTCTGGTCCTTGGTGG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 26 || Subject [ATTNTTGAACTCACTC] is found in fragment queries [ATTTTGAACTCACTTC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 27 || Subject [AGGAACGGTGGTTGTT] is found in fragment queries [AGGAAGGTGAGTTGTT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 28 || Subject [GTTACAATCTTTGCTG] is found in fragment queries [TGTTACAATCTTTCTG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 29 || Subject [CTCCTACNTTANCACC] is found in fragment queries [CTCCTACTTTACCACC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 30 || Subject [CAGTTATGTTGTACTC] is found in fragment queries [CAGTTATGTTGTCACT] with similarity score of 26.
+Not Found.
+Query found: 31 || Subject [ATGATGTAAGTTNGGT] is found in fragment queries [ATGATGAAAGTTTGGT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 32 || Subject [NNCTGTCTTTGTGATT] is found in fragment queries [TTCTGTCTTTGTGATT] with similarity score of 26.
+Not Found.
+Query found: 33 || Subject [NATAGAGGTGCATGGT] is found in fragment queries [AATAGAAGTGCATGGT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 34 || Subject [GGGACNAGGGACGTTN] is found in fragment queries [GGGACTAGGGACGTTT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 35 || Subject [GAGAGAGACTGCCTCA] is found in fragment queries [GAGCGAGACTGTCTCA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 36 || Subject [GAGTTGACGCTTATAG] is found in fragment queries [GAGTTGAGGCTTAGAG] with similarity score of 26.
+Not Found.
+Query found: 37 || Subject [TGTGATATNNGATAAG] is found in fragment queries [TGTGATATGAGATAAG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 38 || Subject [GGCCCANGCCAAGAAT] is found in fragment queries [GGCCCACGCCAAAAAT] with similarity score of 26.
+Not Found.
+Query found: 39 || Subject [GTTCCCCCCTCTNTCA] is found in fragment queries [GTTCCCCCCTCTTTCT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 40 || Subject [ATCCGTTGTCCGCTGA] is found in fragment queries [ATCTGTTGTCCACTGA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 41 || Subject [AACAGCNGATAGTTGC] is found in fragment queries [AACAGCAGATAGTTCC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 42 || Subject [CTATNATAATATGCAC] is found in fragment queries [CTATTATAATATTCAC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 43 || Subject [CATATTGATTGCCTGT] is found in fragment queries [CAGATTGATTGCATGT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 44 || Subject [CCACGTACATCAGCAG] is found in fragment queries [CCACGTAATCAGCATG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 45 || Subject [GTGAAAGGTCCTATGA] is found in fragment queries [ATGAAAGGTCCCATGA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 46 || Subject [NTACACCATTTTTTTA] is found in fragment queries [CTAAACCATTTTTTTA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 47 || Subject [GCTAGAANCGCACACA] is found in fragment queries [CCTAGAACCGCACACA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 48 || Subject [TGGCAANGTCAAGGGT] is found in fragment queries [TGGCAAGGTCATGGGT] with similarity score of 26.
+Not Found.
+
+Not Found.
+Query found: 49 || Subject [GTCTCTGCGGCATACA] is found in fragment queries [GTCTCTGGGGCATGCA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 50 || Subject [CGTTGTTTTNAGATAG] is found in fragment queries [TGTTGTTTTTAGATAG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 51 || Subject [AAATGCGCCCAACNCC] is found in fragment queries [AAATGTGCCCAACTCC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 52 || Subject [GGGTACAAGTCATCCT] is found in fragment queries [GGGTTCAAGTCATTCT] with similarity score of 26.
+Not Found.
+Query found: 53 || Subject [CATAGGTGNTATGGAT] is found in fragment queries [TATAGGTGCTATGGAT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 54 || Subject [GTGGATCNGGACCCAG] is found in fragment queries [TTGGATCTGGACCCAG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 55 || Subject [GCGTAGGAGTTATTCC] is found in fragment queries [TGGTAGGAGTTATTCC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 56 || Subject [ACTGTAGTATCATGAG] is found in fragment queries [ACTGTAGTTCATGAGC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 57 || Subject [TTACGGGCNGAGCACC] is found in fragment queries [TTAAGGGCTGAGCACC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 58 || Subject [ATGAGAAGNNGACAGG] is found in fragment queries [ATGAGAAGCTGACAGG] with similarity score of 26.
+Not Found.
+Query found: 59 || Subject [TAAGATTNAATTCAGT] is found in fragment queries [TAAGATATAATTCAGT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 60 || Subject [AGGTTTGTTTANTTTN] is found in fragment queries [AGGTTTGTTTATTTTA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 61 || Subject [ACTGTGAGCNCAAATT] is found in fragment queries [ACTGTGAGCTCTAATT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 62 || Subject [NTGGCGCGGTAGTTCA] is found in fragment queries [CTGGCGCGGTAGCTCA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 63 || Subject [TGTACTAGAAAGATCA] is found in fragment queries [TGTTCTAAAAAGATCA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 64 || Subject [CGGCAATNGTGGTGGG] is found in fragment queries [CGGGAATGGTGGTGGG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 65 || Subject [AGACACTTCGTCTTGA] is found in fragment queries [AGAGACTCCGTCTTGA] with similarity score of 26.
+Not Found.
+Query found: 66 || Subject [TATTTTAAGGACGGTG] is found in fragment queries [TATTTTATGGACAGTG] with similarity score of 26.
+Not Found.
+Query found: 67 || Subject [GCCGTGCATNTTTCTA] is found in fragment queries [GGCGTGCATTTTTCTA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 68 || Subject [CCAGTCTATCANTTAG] is found in fragment queries [CCAGTCTATCATTTAT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 69 || Subject [NCACCTTGCCTTCTNC] is found in fragment queries [GCACCTTGCCTTCTGC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 70 || Subject [CTTATAGAGTGTCTAA] is found in fragment queries [CTTAAGAGTTGTCTAA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 71 || Subject [CGGATTCTTCCATGTA] is found in fragment queries [CGGATTCCTCCAGGTA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 72 || Subject [CATAGGTTGGATATCA] is found in fragment queries [CATAGAGTTGGAATCA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 73 || Subject [TGAAACGTTTGCNGCA] is found in fragment queries [TGAAAACGTTTGCGCA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 74 || Subject [CNCTGGGCAGTAACTC] is found in fragment queries [CTCAGGGCAGTAACTC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 75 || Subject [GCAGAAGGNAGAGTTT] is found in fragment queries [GCAGAAGACAGAGTTT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 76 || Subject [GGGGNGGTGGNTCGCT] is found in fragment queries [GGGGGGGTGGATCGCT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 77 || Subject [TGGTAATGCCANCATA] is found in fragment queries [TGGTAATGCCACCATG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 78 || Subject [GTGTAGTTCAGTTTCG] is found in fragment queries [ATGTAGTTCAGTTTTG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 79 || Subject [ACTNATAATGCATTCC] is found in fragment queries [ACTTATAATGCATTGC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 80 || Subject [NTCCGGCAACTCCCAA] is found in fragment queries [CTCAGGCAACTCCCAA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 81 || Subject [CCCATGGGTGGCGNCT] is found in fragment queries [CCCATGGGTGGAGGCT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 82 || Subject [CGTCCCNGACTCAGGG] is found in fragment queries [CCTCCCAGACTCAGGG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 83 || Subject [CGGTGTAGTCGCTCCA] is found in fragment queries [CGGTGGAGTCGCCCCA] with similarity score of 26.
+Not Found.
+Query found: 84 || Subject [AGGAGCANCATTGTTC] is found in fragment queries [AGGAGCAGCATTTTTC] with similarity score of 26.
+Not Found.
+Query found: 85 || Subject [CNGAAGGTTGGAAAGG] is found in fragment queries [CCGAAGGCTGGAAAGG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 86 || Subject [ACCCTCAAGGAGCCTG] is found in fragment queries [ACCCTAGAGGAGCCTG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 87 || Subject [CACNGAAAAGTTTACT] is found in fragment queries [TACAGAAAAGTTTACT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 88 || Subject [GTGATATGTCCTCTNA] is found in fragment queries [GTGATATGTACTCTTA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 89 || Subject [CCTGCCCACACANTTA] is found in fragment queries [CCTGCCCACACGTTTA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 90 || Subject [TNATGANAATCTAGCC] is found in fragment queries [TGATGATAATCTAGCC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 91 || Subject [GGGCGTGCAAACTCTT] is found in fragment queries [GGGCCTTCAAACTCTT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 92 || Subject [CACATTTCCNAAATTC] is found in fragment queries [CACATTTCCCAAATTT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 93 || Subject [AACAAANTCTCACTGA] is found in fragment queries [AACAATTTCTCACTGA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 94 || Subject [TCAATCAGCTTTNCGC] is found in fragment queries [TCAATCAGCTTTCCAC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 95 || Subject [GACCGAATCCATTTGA] is found in fragment queries [GATCGAGTCCATTTGA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 96 || Subject [GCGAANGACCTCTTCG] is found in fragment queries [GTGAAGGACCTCTTCG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Our Progrom took 185696 seconds for checking for all random fragments similarity scores.
+Hits count:96
+Not Found.
+
+Not Found.
+Query found: 97 || Subject [GTTTGGGACTCACGCT] is found in fragment queries [GTTTGGGAGTCTCGCT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 98 || Subject [CCATCATANCTCCCCC] is found in fragment queries [CCATCATTCCTCCCCC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 99 || Subject [NACTCNTCACCCTTCA] is found in fragment queries [AACTCCTCACCCTTCA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 100 || Subject [CGTAATTTACTCGCAC] is found in fragment queries [CGTAATTTTCCCGCAC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 101 || Subject [GCTCTGGGAGTNAGAT] is found in fragment queries [GCTCTGGGAATCAGAT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 102 || Subject [AGCTTTTNGTTACAGA] is found in fragment queries [AGCTTTTGTTAGCAGA] with similarity score of 26.
+Not Found.
+Query found: 103 || Subject [ATCTCTGCCTTACGCT] is found in fragment queries [ATCTCTGCCTTCACCT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 104 || Subject [CAGCNTGTCTGAGGNC] is found in fragment queries [CAGCTTGTCTGAGGTC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 105 || Subject [CTCCAGGTACACAGGA] is found in fragment queries [CTCCTGGTAAACAGGA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 106 || Subject [TCCATCCTATTNGGGG] is found in fragment queries [TCCATTCTATTCGGGG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 107 || Subject [CACCCANAGAGAGCTT] is found in fragment queries [CACCCAGAGAGAGCTC] with similarity score of 26.
+Not Found.
+Query found: 108 || Subject [NTATTANGTTATTGAG] is found in fragment queries [ATATTATGTTATTGAG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 109 || Subject [TGATCTCTCGACAATT] is found in fragment queries [GTGATCTCTCACAATT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 110 || Subject [ANAGTATGCCCTCGGC] is found in fragment queries [CCAGTATGCCCTCGGC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 111 || Subject [AGAGATTATACTCTTC] is found in fragment queries [AAGATTTATACTCTTC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 112 || Subject [GATGACNTTCNAGAAA] is found in fragment queries [GATGACCTTCAAGAAA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 113 || Subject [TGCTNGGGCTCTTTAA] is found in fragment queries [TGCCGGGGCTCTTTAA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 114 || Subject [GTNTTGCTATAATTCT] is found in fragment queries [GTGTTGCTTTAATTCT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 115 || Subject [TGCANACCACGCACGC] is found in fragment queries [TGCACACCACGCATGC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 116 || Subject [GGGAGGAGTACCGNTT] is found in fragment queries [GGGAGGAGTCCCGGTT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 117 || Subject [NCCTTCTACTACAAAG] is found in fragment queries [TCCTTCTACTACCAAG] with similarity score of 26.
+Not Found.
+Query found: 118 || Subject [GTGCTACAAAGTGTAG] is found in fragment queries [ATGCTAAAAAGTGTAG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 119 || Subject [CTTGGANTGGATAGAC] is found in fragment queries [ATTGGAATGGATAGAC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 120 || Subject [TNGATGGGGGCAGGTT] is found in fragment queries [TGATGGGGGCAGGCTT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 121 || Subject [TATTGTTTNGTTACGT] is found in fragment queries [TATTCTTTAGTTACGT] with similarity score of 26.
+Not Found.
+Query found: 122 || Subject [GGGANATGGACGCTAA] is found in fragment queries [GTGAGATGGACGCTAA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 123 || Subject [TGGAACCATTCGTGGT] is found in fragment queries [TGGAACACATTGTGGT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 124 || Subject [CTCCGGNNTCCAGTTT] is found in fragment queries [CTCCGGTATCCAGTTT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 125 || Subject [TCATACCTGTAANTCG] is found in fragment queries [TCATACCTGTAATTCC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 126 || Subject [CCANCGCTAGGCTCCT] is found in fragment queries [CCATGGCTAGGCTCCT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 127 || Subject [CAGCAGTACCATCTNG] is found in fragment queries [CATCAGTACCATCTGG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 128 || Subject [CGGAGAGACAGCTNCC] is found in fragment queries [AGGAGAGACAGCTACC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 129 || Subject [GTAGTAATTATGAAGC] is found in fragment queries [GTAGTAATTATGATAG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 130 || Subject [NTCTTTTAGTTGGTGC] is found in fragment queries [GTCTTTTACTTGGTGC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 131 || Subject [GTGTTCTTTNTAAACG] is found in fragment queries [GTATTCTTTGTAAACG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 132 || Subject [AGGGCCCNCTTTTNAA] is found in fragment queries [AGGGCCCCCTTTTTAA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 133 || Subject [GACGGTACGCCCAAAG] is found in fragment queries [GAGGGTCCGCCCAAAG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 134 || Subject [AGGTTANTGTCTATTG] is found in fragment queries [AGGTTTCTGTCTATTG] with similarity score of 26.
+Not Found.
+
+Not Found.
+Query found: 135 || Subject [TAGNGAGGCACCCACA] is found in fragment queries [TAGAGAGGCCCCCACA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 136 || Subject [AACNTACCCTGCCATC] is found in fragment queries [AACATACCCTGCCAAC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 137 || Subject [GTCTGTAAACGCNTGC] is found in fragment queries [GTCTGTAATCGCTTGC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 138 || Subject [AGTCAACTTGTANATA] is found in fragment queries [AGTAAACTTGTACATA] with similarity score of 26.
+Not Found.
+Query found: 139 || Subject [CTGGGCGGACACTNAT] is found in fragment queries [CTGGGCGGACACTCAG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 140 || Subject [CATAACCTACAGANAC] is found in fragment queries [CATAACCTAACAGAAC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 141 || Subject [NCAGTCTATCATGCTA] is found in fragment queries [CCAGTCTATCATGCTA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 142 || Subject [CGCCAATGTGTCGACT] is found in fragment queries [CGCCAATGTATCGGCT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 143 || Subject [TAAATGTAGTCTAATC] is found in fragment queries [TAAATGTACTCTAATG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 144 || Subject [CAANCTACTTCCGAAG] is found in fragment queries [CAAACTACTTCTGAAG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 145 || Subject [CNNGGTGTGTAACACT] is found in fragment queries [CAGGGTGTGTAACACT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 146 || Subject [CCGTCCAGTAATTACT] is found in fragment queries [CCAGTCCAGTATTACT] with similarity score of 26.
+Not Found.
+Query found: 147 || Subject [CTGNTGGAAGCGTTAA] is found in fragment queries [CTATTGGAAGCGTTAA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 148 || Subject [ANAGGATTTAGCTAAC] is found in fragment queries [AGAGGATTCAGCTAAC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 149 || Subject [AAATGAAAATGAGTNT] is found in fragment queries [AATATGAAAATGAGTT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 150 || Subject [TCAGGGTCTCATTTTC] is found in fragment queries [TCAGGCTCTCATTTTA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 151 || Subject [GTTAAAATNTTTAGTA] is found in fragment queries [GTATAAAATTTTAGTA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 152 || Subject [ANGATTACCACTCTAT] is found in fragment queries [ATAATTACCACTCTAT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 153 || Subject [GCTGNACNTCATTTAA] is found in fragment queries [GCTGAACTTCATTTAA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 154 || Subject [AACTTTCTACCACTGG] is found in fragment queries [AACTTCTACCCACTGG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 155 || Subject [AATTTTAACACGCCGG] is found in fragment queries [AATTTTAACATGCTGG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 156 || Subject [TTGTATNTTTCTAGAT] is found in fragment queries [TCTGTATTTTCTAGAT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 157 || Subject [ACATGAGCCGTGAGCC] is found in fragment queries [ACATGAGCCTGAGCGC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 158 || Subject [ACAGATTTTCTTANAT] is found in fragment queries [ACAGATTTTGTTAAAT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 159 || Subject [ATGTTCCCTAATGTTC] is found in fragment queries [ATGTTGCCCTAATGTC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 160 || Subject [GNGTTGAGGCGGGAGG] is found in fragment queries [GAGTTGAGGTGGGAGG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 161 || Subject [TGAANGACCTCCGATC] is found in fragment queries [TGAAAGTCCTCCGATC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 162 || Subject [TCTGCACCAGTGNTCG] is found in fragment queries [TCTGCACCAGTGTCTG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 163 || Subject [GTCTAGTCTCNAGGNT] is found in fragment queries [GTCTAGTCTCCAGGTT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 164 || Subject [CANNGCTTAGACCACA] is found in fragment queries [CAGAGCTTAGACCACA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 165 || Subject [GTACATCCATACTTNC] is found in fragment queries [GTACATCCATAGTTTC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 166 || Subject [AAANACAGTTAAGGAC] is found in fragment queries [AAAGACAGTTAAGGCC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 167 || Subject [GGNCTGTTGTGGATGA] is found in fragment queries [GGCTGTTGTGGACTGA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 168 || Subject [GGGAAANTAGCACCCG] is found in fragment queries [GGGAAAGTAACACCCG] with similarity score of 26.
+Not Found.
+Query found: 169 || Subject [CGTAGACTTTCTGGGT] is found in fragment queries [GTAGACTTTCCTGGGT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 170 || Subject [CTTTCNTNTAAGCCTT] is found in fragment queries [CCTTCNTATAAGCCTT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 171 || Subject [AGTTTCNCCAGATCAA] is found in fragment queries [AGTTTCTCCAGATCAT] with similarity score of 26.
+Not Found.
+Query found: 172 || Subject [ATTCTTTTNTCGTTCC] is found in fragment queries [ATTCTTTTTTCCTTCC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 173 || Subject [CTATGTGGTNNACTGG] is found in fragment queries [CTATGTGGTCCACTGG] with similarity score of 26.
+Not Found.
+Query found: 174 || Subject [AGANGCCTCACGTGAC] is found in fragment queries [AGAGCCTCACGTTGAC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 175 || Subject [GCCTCAACAAGTACAG] is found in fragment queries [GCCTCTGCAAGTACAG] with similarity score of 26.
+Not Found.
+Query found: 176 || Subject [ACATGCTGGGTATACC] is found in fragment queries [ACAGCTGGGATATACC] with similarity score of 26.
+Not Found.
+
+Not Found.
+Query found: 177 || Subject [CTAAATGANTAGTTCA] is found in fragment queries [CTAAATGACTAGTTAA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 178 || Subject [GCCTTTATCCANTCTC] is found in fragment queries [TCCTTTATCCACTCTC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 179 || Subject [CTTTGAAAGCTTCCAT] is found in fragment queries [TTTGATAAGCTTCCAT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 180 || Subject [TTATGTCCANTCCATT] is found in fragment queries [TTAAGTCCATTCCATT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 181 || Subject [CTATTATGCTAGAAGC] is found in fragment queries [CTATTGTGGTAGAAGC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 182 || Subject [CCGTGCGCAATCNTCT] is found in fragment queries [CCGTGGCGCAATCTCT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 183 || Subject [GGCTTTATCTTAAACC] is found in fragment queries [GGCTTTCTCTGAAACC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 184 || Subject [NTTTATTATTGTCNAT] is found in fragment queries [TTTTATTATTGTCTAT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 185 || Subject [NTGNACAACAAATTTT] is found in fragment queries [TTGAACAACAAATTTT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 186 || Subject [GTAANGACTCTAGTAC] is found in fragment queries [GTAAGGACTCAAGTAC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 187 || Subject [GTGAATCACCAAATTG] is found in fragment queries [GGAAGTCACCAAATTG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 188 || Subject [TCNTAGNGAAATAAAA] is found in fragment queries [TCCTAGAGAAATAAAA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 189 || Subject [CTAAGGTTATAGTTTC] is found in fragment queries [CCAAGGCTATAGTTTC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 190 || Subject [TGGTACACTCCAGTAG] is found in fragment queries [TGGTACACACCTGTAG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 191 || Subject [GTCNTCGCGTTTATAT] is found in fragment queries [GTCTCTGCGTTTATAT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 192 || Subject [CNCAAAGCCAGTAAAG] is found in fragment queries [CCCAAAGCCATTAAAG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 193 || Subject [CTAATGACTGTGCCTA] is found in fragment queries [CTAATGAGTGTGCATA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 194 || Subject [GCNGAAACAGACTAGG] is found in fragment queries [GCAGAAACAGACTAGT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 195 || Subject [GATTTCGCGATGTGTT] is found in fragment queries [GATTTCGCAGATGGTT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 196 || Subject [GCCAAGGAGNAGGCTC] is found in fragment queries [GCCAAGGAGGCGGCTC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 197 || Subject [ACCCCAGCNGATTCCC] is found in fragment queries [AGCCCAGCTGATTCCC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 198 || Subject [NATGTCAGCCGGGGAC] is found in fragment queries [TATGTCAGCCGGGCAC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 199 || Subject [GCAGTTACCGANACAA] is found in fragment queries [GCAGTTACTGACACAA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 200 || Subject [TTGCTNTTTTACAAGG] is found in fragment queries [TTGCTATTTTACAAAG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 201 || Subject [GGTGTCTCANCCATGC] is found in fragment queries [GTTGTCTCAGCCATGC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 202 || Subject [GTCCNTGGGCAGGTCA] is found in fragment queries [GACCTTGGGCAGGTCA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 203 || Subject [TAGCNATGTAGCTTTA] is found in fragment queries [TAGTAATGTAGCTTTA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 204 || Subject [ANAGGGCTCACTCGGA] is found in fragment queries [AAAGGGCTCACTAGGA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 205 || Subject [CACAGCNNAACAGCAC] is found in fragment queries [CACAGCCCAACAGCAC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 206 || Subject [TCGAGAGTAATCTCAC] is found in fragment queries [TCAGAGTAATCTCACT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 207 || Subject [GCTGAGGCNGANGAAT] is found in fragment queries [GCTGAGGCAGAAGAAT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 208 || Subject [GGTTNACCAGGGCCAG] is found in fragment queries [GGTTACCAGAGGCCAG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 209 || Subject [ANATGATACTAGTATA] is found in fragment queries [ATCTGATACTAGTATA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 210 || Subject [TGACTTAGAANTGNTT] is found in fragment queries [TGACTTAGAAATGTTT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 211 || Subject [TTANCCCCAAGAGTCT] is found in fragment queries [TTATCCCCAAGGGTCT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 212 || Subject [TCATCCTGCANGCGAC] is found in fragment queries [TCATCCTGCACGCCAC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 213 || Subject [TCGNTCACTGATTGCT] is found in fragment queries [TCAGTCACTGATTGCT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 214 || Subject [GGAAATGTTTGTCGTC] is found in fragment queries [GGAAATGTCTGTTGTC] with similarity score of 26.
+Not Found.
+Query found: 215 || Subject [TGTCCGCCAATAACGT] is found in fragment queries [TGTACACCAATAACGT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 216 || Subject [ACTCANTGTTNACACT] is found in fragment queries [ACTCACTGTTAACACT] with similarity score of 26.
+Not Found.
+
+Not Found.
+Query found: 217 || Subject [TGTCAAACTNCCTAGC] is found in fragment queries [TGTCAAACTTCCTTGC] with similarity score of 26.
+Not Found.
+Query found: 218 || Subject [ACACNTGCTTTCCGGG] is found in fragment queries [ACACCTGCTTTCCAGG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 219 || Subject [CAGTCTATGCTTGNCT] is found in fragment queries [CAGTGTATGCTTGTCT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 220 || Subject [AACCGAGCCAGANAGC] is found in fragment queries [AACCGAGGCAGACAGC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 221 || Subject [AGAACAAGATNTGGTA] is found in fragment queries [ATAACAAGATATGGTA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 222 || Subject [GCAGTTAACTTGTCTA] is found in fragment queries [TGCAGTTAACTTGTTA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 223 || Subject [NAGCTCCCCAACCCAT] is found in fragment queries [TAGCTCCCCAACACAT] with similarity score of 26.
+Not Found.
+Query found: 224 || Subject [TGGCAACACTTTCATT] is found in fragment queries [TGGCAACACTTTTTTT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 225 || Subject [CCGTTACTCTGATATG] is found in fragment queries [CCGTTCACTCTGATAG] with similarity score of 26.
+Not Found.
+
+Not Found.
+Query found: 226 || Subject [ATNCTCAGAAGGGTTC] is found in fragment queries [ATACTCAGAAGGGTTA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 227 || Subject [TCACAAGGAGTCNGAA] is found in fragment queries [TCACAAGGAGTAGGAA] with similarity score of 26.
+Not Found.
+
+Not Found.
+Query found: 228 || Subject [GTATTTCTGGNGTATC] is found in fragment queries [GTATTTCTGTGGTATC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 229 || Subject [TGAATAGGCTATNGAT] is found in fragment queries [TGAGATAGGCTATGAT] with similarity score of 26.
+Not Found.
+
+Not Found.
+Query found: 230 || Subject [CTTCCGAGNNGCAGGA] is found in fragment queries [CTTCCGAGTAGCAGGA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 231 || Subject [ACATNGTGGGAATGTA] is found in fragment queries [ACATGTGGGAATGTAC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 232 || Subject [CCGAGGATATNTTACA] is found in fragment queries [CCAAGGATATGTTACA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 233 || Subject [TACAATGAAGTAATTG] is found in fragment queries [TACAAAGAAGTATTTG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 234 || Subject [NTTTTGTCAACATCCA] is found in fragment queries [CTTTTGTCCACATCCA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 235 || Subject [CACCAGAGCTTATNGA] is found in fragment queries [GACCAGAGCTTATGGA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 236 || Subject [ACACACCCTCGTNGTG] is found in fragment queries [ACACACCCTCTGTGTG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 237 || Subject [CCCTGCTTCCCATCAN] is found in fragment queries [CCACTGCTTCCCATCA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 238 || Subject [TTTCACTAATAAANCT] is found in fragment queries [TTTCACTAATAAATCA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 239 || Subject [GCCCTAGGTGCTAAGA] is found in fragment queries [GCCCTAGGTTCTAGGA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 240 || Subject [CNTTATTCATCTATCT] is found in fragment queries [CTTTATTCATTTATCT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 241 || Subject [CACACCCATGAACCAA] is found in fragment queries [AATACCCATGAACCAA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 242 || Subject [CATTAANTTNTATTCT] is found in fragment queries [CATTAAGTTGTATTCT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 243 || Subject [CTACTGAGTTTNCNCT] is found in fragment queries [CTACTGAGTTTCCCCT] with similarity score of 26.
+Not Found.
+Query found: 244 || Subject [CNTGTCACATTCCCCT] is found in fragment queries [CTGTCACACTTCCCCT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 245 || Subject [ACNCCTCCTAGCCCTT] is found in fragment queries [ACCCTCCTGAGCCCTT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 246 || Subject [TGCGTANGGTTCACTG] is found in fragment queries [TGCTTAGGGTTCACTG] with similarity score of 26.
+Not Found.
+Query found: 247 || Subject [TTGTCAGTAGNCAACT] is found in fragment queries [TTGTCAGTAGGAAACT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 248 || Subject [TTTCCTTAGTATGATA] is found in fragment queries [TTACCTTAGTATGACA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 249 || Subject [NATAATAAATAAATNT] is found in fragment queries [AATAATAAATAAATTT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 250 || Subject [CGGCCCCGATAGCCAC] is found in fragment queries [CGGCCCCAATGGCCAC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 251 || Subject [GACCTTGCAANTAGAC] is found in fragment queries [GACCTTGCAATAGTAC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 252 || Subject [GAGGGCACTATTTTTG] is found in fragment queries [GAGGGCTCTATTTTTC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 253 || Subject [GGGGATAACNTGGGGT] is found in fragment queries [GGGGATAACCTGGGGT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 254 || Subject [CACATAGGGAATANAT] is found in fragment queries [CATATAGGGAATAAAT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 255 || Subject [CTAGAAGACTCANCAT] is found in fragment queries [CTAGAAGACTGAACAT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 256 || Subject [CTAGTCCGGAAATCTC] is found in fragment queries [CTAGTACAGAAATCTC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 257 || Subject [CCAGGTTTTCGACTTA] is found in fragment queries [CCAGGTTTTCTATTTA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 258 || Subject [CACACTGCTGATGAAN] is found in fragment queries [CACACTGCTGATAAAG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 259 || Subject [CTTCAGTCCCCAAAAN] is found in fragment queries [CTTCTGTCCCCAAAAG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 260 || Subject [CGCTCCTCTGGGGCCA] is found in fragment queries [CGCTCATCTGGGGTCA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 261 || Subject [GGTTANTATTTTCCAT] is found in fragment queries [GGTTATTTTTTTCCAT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 262 || Subject [TTCTCTANTTTTCNAT] is found in fragment queries [TTCTCTACTTTTCTAT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 263 || Subject [CGGGCAGCTACAATTG] is found in fragment queries [CGGCCAGCTACAGTTG] with similarity score of 26.
+Not Found.
+Query found: 264 || Subject [TAAGCTCACGACTCCG] is found in fragment queries [TAAGCTCAGGACTCCC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 265 || Subject [TCTNATCTGTCATCTC] is found in fragment queries [TCTAATCTGTCATCTT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 266 || Subject [TTGAATAACTNAGGAG] is found in fragment queries [TTGAATAATTTAGGAG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 267 || Subject [ATCGCNGATCACTATG] is found in fragment queries [ATCGCTGATCGCTATG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 268 || Subject [NTCTGGAGTGGATGTT] is found in fragment queries [GCCTGGAGTGGATGTT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 269 || Subject [TCTATGACTTTCTNCT] is found in fragment queries [TCTATGACTTTCTCCT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 270 || Subject [ATAATANACACTTCGT] is found in fragment queries [ATAATGAACACTTCGT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 271 || Subject [GAATGTCGCTCGATGG] is found in fragment queries [GAATGTGCTCGAATGG] with similarity score of 26.
+Not Found.
+
+Not Found.
+Query found: 272 || Subject [ATTGCCCTGAGNCCGC] is found in fragment queries [ATTGCCACTGAGCCGC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 273 || Subject [AAGNAGTCTCCCCGCA] is found in fragment queries [AAGAGTCTCCCCTGCA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 274 || Subject [AACCTTTTGCTTCACT] is found in fragment queries [AACTCTTTTGCTTCAT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 275 || Subject [GAGAGACATGCAGNGA] is found in fragment queries [GAGAGACAAGCAGAGA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 276 || Subject [TTGAAGCTGGCAAGGC] is found in fragment queries [TGAAGCTGGCAAGGCT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 277 || Subject [CTCTCAAGGTNATACN] is found in fragment queries [CTCTCAAGGTTATACA] with similarity score of 26.
+Not Found.
+Query found: 278 || Subject [ACTAAATCTCTGCATG] is found in fragment queries [ACTAATTATCTGCATG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 279 || Subject [AGTGGANGAGAAAGCT] is found in fragment queries [AGTGGAAGAGAAAGTT] with similarity score of 26.
+Not Found.
+Query found: 280 || Subject [AGTAGCAACCGCTAAC] is found in fragment queries [AATAGCAACAGCTAAC] with similarity score of 26.
+Not Found.
+Query found: 281 || Subject [GCATCATTGCTTANCA] is found in fragment queries [GGCATCATTGCTTACA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 282 || Subject [ACANTGGNTTAGAAAT] is found in fragment queries [ACAATGGATTAGAAAT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 283 || Subject [TCANTATGGCCTCTCA] is found in fragment queries [TCACTTTGGCCTCTCA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 284 || Subject [AACTTATCTTTGGTTT] is found in fragment queries [AAATTATTTTTGGTTT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 285 || Subject [GGACACTGTTCACGAA] is found in fragment queries [GGCCACTGTTCAGGAA] with similarity score of 26.
+Not Found.
+
+Not Found.
+Query found: 286 || Subject [GTTTNATTTATGTGGC] is found in fragment queries [GCTTTATTTATGTGGC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 287 || Subject [CAGTACAGCAAGGCGG] is found in fragment queries [CAGACAGCAAGGCAGG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 288 || Subject [NTAATACCTTGGGACA] is found in fragment queries [TAATACCTTGGTGACA] with similarity score of 26.
+Not Found.
+
+Not Found.
+Query found: 289 || Subject [TATTAAGTCGCAGACC] is found in fragment queries [TATTTAGTAGCAGACC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 290 || Subject [ATAGNCCCAGGCCGGG] is found in fragment queries [ATAGCCCAGGCCGGGC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 291 || Subject [ACTTTTGTCGTNGGGA] is found in fragment queries [ACTTTTGTCATTGGGA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 292 || Subject [TGTNTTGTGTAAGACN] is found in fragment queries [TGTGTTGTGTAAGACT] with similarity score of 26.
+Not Found.
+Query found: 293 || Subject [TTGAGTAGGACGACTG] is found in fragment queries [TTGGGTAGGAAGACTG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 294 || Subject [GGATGTTCTAGAACTT] is found in fragment queries [GGAAGTTCAAGAACTT] with similarity score of 26.
+Not Found.
+
+Not Found.
+Query found: 295 || Subject [AATGCCAGCTACACGT] is found in fragment queries [AATGCCAGCTACTCGG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 296 || Subject [GCTCATTNGGGGCTCA] is found in fragment queries [CCTCATTAGGGGCTCA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 297 || Subject [GACTGCAANTGGTGTG] is found in fragment queries [GAGTGCAAGTGGTGTG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 298 || Subject [AGNCAGTCTTACCCCC] is found in fragment queries [AGGCAGTTTTACCCCC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 299 || Subject [CATATGCGGTGGGNGA] is found in fragment queries [CATATGCGGTGGGGGT] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 300 || Subject [TTGGAGNCGAAAGTTG] is found in fragment queries [TTGGAGACAAAAGTTG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 301 || Subject [ATGAAAAACCNTTACA] is found in fragment queries [CTGAAAAACCTTTACA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 302 || Subject [ATCTGAGTCNCCACCN] is found in fragment queries [ATCTGAGTCACCACCT] with similarity score of 26.
+Not Found.
+Query found: 303 || Subject [TACCCCAGCTTAACAC] is found in fragment queries [TCCCCCAGCTTTACAC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 304 || Subject [CTCCNGGGTTCTCACN] is found in fragment queries [CTCCTGGGTTCTCACC] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 305 || Subject [CCGGGGCAGGCTGTAA] is found in fragment queries [CCGGGCATGGCTGTAA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 306 || Subject [CTTACAGAGCTTAATA] is found in fragment queries [CTAACAGAGATTAATA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 307 || Subject [CCTCAANAAATCATNA] is found in fragment queries [CCTCAATAAATCATGA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 308 || Subject [GTGCCCNAAGTGCAAG] is found in fragment queries [GTGCCCAAGTTGCAAG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 309 || Subject [TTGAATATGGTTANGG] is found in fragment queries [CTGAATATGGTTAGGG] with similarity score of 26.
+Not Found.
+Query found: 310 || Subject [ACCAGTCCTGCNTGTA] is found in fragment queries [ACCAGTCCTGCTGTGA] with similarity score of 26.
+Not Found.
+Query found: 311 || Subject [CCACAANAATTGTCGA] is found in fragment queries [CCACAAAAATTGTAGA] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+Query found: 312 || Subject [GACCCCAGATGGCATG] is found in fragment queries [GACCCCAGTTGACATG] with similarity score of 26.
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+
+Not Found.
+slurmstepd: error: *** JOB 64517662 ON cn21 CANCELLED AT 2023-04-18T09:57:48 DUE TO TIME LIMIT ***
+slurmstepd: error: *** STEP 64517662.0 ON cn21 CANCELLED AT 2023-04-18T09:57:48 DUE TO TIME LIMIT ***
